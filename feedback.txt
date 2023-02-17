@@ -1,0 +1,5 @@
+Excelente trabajo!!!. Todos los requerimientos alcanzados. Solo hay unos detalles que podrían mejorar el código.
+ Ojo, que el código está bien, esta son solo mejoras. La variable declarada con var dentro del ciclo for. 
+ Preferentemente declararla con let antes del for con valor inicial 0. La variable numero declarada dentro 
+ del for con let, preferentemente usar otro nombre, para evitar confusiones de conceptos, ya que se llama igual
+  a la variable global numero que no representan exactamente lo mismo. Felicitaciones !!!
